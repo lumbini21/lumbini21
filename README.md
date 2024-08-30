@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumbini21&label=Profile%20views&color=0e75b6&style=flat" alt="lumbini21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lumbini21" alt="lumbini21" /></a> </p>
-
 - 🔭 I’m **a Software Engineering Undergraduate**
 
 - 🌱 I’m currently learning **Java, ReactJs, ML**
