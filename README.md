@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Lumbini Randika</h1>
-<h3 align="center">A passionate tech enthusiast from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lumbini21&label=Profile%20views&color=0e75b6&style=flat" alt="lumbini21" /> </p>
+<img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
+<header align="left">
+    <h1 align="left">Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <h3 align="left">
+        <ul>
+            <li>🔭 I'm currently a Software Engineering Undergraduate</li>
+            <li>👨‍🎓 I'm learning Java at the moment</li>
+            <li>💬 Ask me about anything you want</li>
+            <li>📫 How to reach me: lumbinirandika01@gmail.com</li>
+        </ul>
+    </h3>
+</header>
+<hr>
+<div align="center">
+    <h2 align="center">Used Technologies</h2>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="Scala" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="80">
+    </div>
+    <h2 align="center">Used Tools</h2>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="80">
+      
+     
+</div>
+<hr>
+<footer align="center">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=lumbini21&include_all_commits=true&show_icons=true&theme=radical" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumbini21&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+    </p>
+</footer>
 
-- 🔭 I’m **a Software Engineering Undergraduate**
+------
 
-- 🌱 I’m currently learning **Java, ReactJs, ML**
 
-- 📫 How to reach me **lumbinirandika01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lumbini-randika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lumbini-randika" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumbini21&show_icons=true&locale=en" alt="lumbini21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lumbini21&" alt="lumbini21" /></p>
