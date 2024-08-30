@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lumbini21" alt="lumbini21" /></a> </p>
 
-- 🔭 I’m currently working on **a Software Engineering Undergraduate**
+- 🔭 I’m **a Software Engineering Undergraduate**
 
 - 🌱 I’m currently learning **Java, ReactJs, ML**
 
