@@ -37,13 +37,7 @@
       
      
 </div>
-<hr>
-<footer align="center">
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lumbini21&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumbini21&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
-    </p>
-</footer>
+
 
 ------
 
