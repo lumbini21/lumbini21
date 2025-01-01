@@ -6,7 +6,6 @@
         <ul>
             <li>🔭 I'm currently a Software Engineering Undergraduate</li>
             <li>👨‍🎓 I'm learning Java at the moment</li>
-            <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: lumbinirandika01@gmail.com</li>
         </ul>
     </h3>
